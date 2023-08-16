@@ -10,9 +10,11 @@ The data is extracted from [VitalDB](https://vitaldb.net), an open database comp
 - readr 2.1.4.  
 - tidyverse 2.0.0.  
 - ggpubr 0.5.0. 
+- ggridges 0.5.4. 
 - MethodCompare 0.1.2. 
 - brms 2.18.0. 
 - shinystan 2.6.0. 
 - bayesplot 1.10.0. 
 - modelr 0.1.10. 
-- tidybayes 3.0.6
+- tidybayes 3.0.6. 
+- HDInterval 0.2.4. 
