@@ -7,8 +7,8 @@ The data is extracted from [VitalDB](https://vitaldb.net), an open database comp
 
 
 # Used packages:
+readr 2.1.2. 
 tidyverse 1.3.1.   
+MethodCompare 0.1.2. 
 brms 2.17.0. 
 shinystan 2.6.0. 
-readr 2.1.2. 
-MethodCompare 0.1.2. 
