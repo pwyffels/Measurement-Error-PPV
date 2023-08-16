@@ -1,4 +1,4 @@
-## This is a wrapper for visualising Bias and Precision for each PPV-family faceted into its different methods
+## This is a wrapper for visualizing Bias and Precision for each PPV-family faceted into its different methods
 # the output of the function contains
 ## B_bias:  The model matrix for Bias
 ## mu_bias: a list containing Design-matrix %% model_matrix for each method's bias
