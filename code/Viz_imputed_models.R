@@ -1,4 +1,8 @@
-# In this script contains the code for the visualization of the simulations of the imputed models (fig 4 in the manuscript)
+# This script contains the code for the visualization of the simulations of the imputed models (fig 4 in the manuscript)
+# note to run this code you need to first another scripts:
+#   - imputed_models.R for the specific models you want to visualize
+# or import the stored fits in fits/
+
 
 library(tidyverse)
 library(ggpubr)

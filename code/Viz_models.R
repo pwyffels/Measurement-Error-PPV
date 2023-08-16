@@ -1,6 +1,6 @@
 ## with this function the plots that can be found in the supplementary section of the article were made.
 # note to run this code you need to first run two other scripts:
-#   - models.R for the specific models you want to visualize and.
+#   - models.R for the specific models you want to visualize (or import the stored fits in fits/)
 #   - bias_precision.R for the wrapper to build precision- and bias-plots in line with the method proposed by Patrick Taffé
 
 library(tidyverse)

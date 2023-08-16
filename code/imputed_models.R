@@ -8,7 +8,7 @@ library(brms)
 library(shinystan)
 
 
-# import master_dataset and calculating BLUP and selecting iPPV_3 subgroup (see: models.R)
+# import master_dataset, calculating BLUP and selecting iPPV_3 subgroup (see: models.R)
 
 master_dataset_def <- read_csv("data/master_dataset.csv") 
 
