@@ -1,7 +1,7 @@
 # Measurement-Error-PPV
 
 
-This repo is dedicated for the analysis of the manuscript: 'Measurement Error of Pulse Pressure Variartion. Wyffels PAH, De Hert S, Wouters PF' currently submitted to the Journal of Clinical Monitoring and Computing (JCMC) .
+This repo is dedicated to the analysis of the manuscript: 'Measurement Error of Pulse Pressure Variartion. Wyffels PAH, De Hert S, Wouters PF' currently submitted to the Journal of Clinical Monitoring and Computing (JCMC) .
 
 The data is extracted from [VitalDB](https://vitaldb.net), an open database compiled by the Department of Anesthesiology and Pain Medicine, Seoul National university College of Medicine , Korea.  [reference](https://www.bjanaesthesia.org.uk/article/S0007-0912(21)00175-6/fulltext)
 
